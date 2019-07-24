@@ -5,27 +5,27 @@ name: victor
 description: victor's Portfolio
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://victor0418.github.io/images/logo.png
+avatar: https://victory0418.github.io/images/logo.png
 
 
 
 
 # Site settings
 email: tmddyd133@naver.com
-baseurl: "https://victor0418.github.io"
+baseurl: "https://victory0418.github.io"
 paginate: 50
 paginate_path: "/blog/page-:num"
 google_analytics: 
 
 # SEO settings
 title: victor's Portfolio.
-url: "https://victor0418.github.io"
+url: "https://victory0418.github.io"
 # twitter_username: 
-default_img: https://victor0418.github.io/images/logo.png
+default_img: https://victory0418.github.io/images/logo.png
 
 # Profile settings
 name: kjuhee's Portfolio.
-profile_img:  https://victor0418.github.io/images/logo.png
+profile_img:  https://victory0418.github.io/images/logo.png
 # profile: 
 # social:
 # github: 
