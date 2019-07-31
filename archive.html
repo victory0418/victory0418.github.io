@@ -13,6 +13,7 @@ permalink: /archive/
     <span>Archive</span>
   </header>
   <div class="section-padding archives__container">
+    
     {% for post in site.posts %}
       <article class="card" itemprop="blogPost" itemscope itemtype="http://schema.org/BlogPosting">
         <a class="card__link" href="{{ post.url | prepend: site.baseurl }}" itemprop="url">
